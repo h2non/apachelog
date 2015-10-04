@@ -1,4 +1,4 @@
-# go-apache-log [![Build Status](https://travis-ci.org/h2non/apachelog.png)](https://travis-ci.org/h2non/apachelog) [![GoDoc](https://godoc.org/github.com/h2non/apachelog?status.svg)](https://godoc.org/github.com/h2non/apachelog)
+# apachelog [![Build Status](https://travis-ci.org/h2non/apachelog.png)](https://travis-ci.org/h2non/apachelog) [![GoDoc](https://godoc.org/github.com/h2non/apachelog?status.svg)](https://godoc.org/github.com/h2non/apachelog)
 
 [Go](https://golang.org) `net/http` compatible middleware for [Apache](http://httpd.apache.org/docs/2.2/logs.html) style logging.
 Simple. Small. Dependency free.
